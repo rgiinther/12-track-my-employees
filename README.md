@@ -11,5 +11,8 @@ Sql
 
 
 github: https://github.com/rgiinther/12-track-my-employees/
+Video link: https://youtu.be/9gQlNS0Pzyo
+
+
 
 
